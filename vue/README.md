@@ -1,4 +1,4 @@
-### remix icon vue 图标组件
+### vue 图标组件
 
 图标官网 https://remixicon.com/
 
