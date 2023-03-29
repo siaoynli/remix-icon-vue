@@ -12,14 +12,14 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/siaoynli/ri-icon-vue.git",
+    "url": "git+https://github.com/siaoynli/remix-icon-vue.git",
     "directory": "packages/vue"
   },
   "author": "siaoynli",
   "bugs": {
-    "url": "https://github.com/siaoynli/ri-icon-vue/issues"
+    "url": "https://github.com/siaoynli/remix-icon-vue/issues"
   },
-  "homepage": "https://github.com/siaoynli/ri-icon-vue#readme",
+  "homepage": "https://github.com/siaoynli/remix-icon-vue#readme",
   "files": [
     "dist"
   ],
